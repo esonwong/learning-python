@@ -292,3 +292,4 @@ cython_debug/
 /data/*
 index.json
 .DS_Store
+/storage
